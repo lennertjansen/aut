@@ -1,6 +1,6 @@
 # Aut - No-BS Calendar App for Events
 
-Aut is a minimalist calendar application that helps users discover and track events from their favorite venues, artists, and organizers. No social media fluff, just events you care about.
+Aut is a simple calendar application that helps users discover and track events from their favorite venues, artists, and organizers. No social media fluff, just events you care about.
 
 ## Features
 
